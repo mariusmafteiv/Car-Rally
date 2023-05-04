@@ -1,7 +1,6 @@
 # Project made for Introduction in Programming, Year 1, Sem 1
 ## Car Rally
-Proiectul consta in implementarea jocului Raliu Auto, dupa cum este descris in cartea „ Olimpiada jocurilor raționale”.
 
 The project consists in implementating a game of Car Rally as it is described in the following book: "Olimpiada jocurilor rationale". 
 
-Proiect realizat de Maftei Marius Vasilica & Istrate Iustin.
+Project made by Maftei Marius Vasilica & Istrate Iustin.
