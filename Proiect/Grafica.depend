@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1638361281 source:c:\users\marius\desktop\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+
+1638364023 source:c:\users\marius\desktop\proiect\cursa1.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<cstdlib>
+	<ctime>
+
+1641967854 source:c:\users\marius\desktop\proiect\main.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<Mmsystem.h>
+	<windows.h>
+
+1640692653 c:\users\marius\desktop\proiect\harti.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<Mmsystem.h>
+
+1640692565 source:c:\users\marius\desktop\proiect\harti.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<Mmsystem.h>
+
+1640709865 c:\users\marius\desktop\proiect\generareharti.cpp
+	<iostream>
+	<cstring>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<math.h>
+	<Mmsystem.h>
+	<windows.h>
+
